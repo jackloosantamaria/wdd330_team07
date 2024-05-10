@@ -1,2 +1,3 @@
-import ProductData from "./ProductData.mjs";
-import ProdudctList from "./ProductListing.mjs";
+import {loadHeaderFooter} from "./utils.mjs";
+
+loadHeaderFooter();
