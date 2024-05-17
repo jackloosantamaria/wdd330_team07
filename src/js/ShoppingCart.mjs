@@ -45,7 +45,7 @@ export default class ShoppingCart {
       input.addEventListener('change', (event) => {
         this.updateQuantity(event.target);
       });
-    });
+    }); 
   }
 
   updateQuantity(input) {
