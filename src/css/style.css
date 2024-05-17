@@ -89,6 +89,7 @@ button {
   display: block;
   border: 0;
   font-size: var(--large-font);
+  margin-top: 15px;
 }
 .divider {
   border-bottom: 2px solid var(--primary-color);
@@ -336,6 +337,11 @@ button {
 
 #newsletter-form button:hover {
   background-color: #0056b3;
+}
+
+.cart-quantity-input {
+  width: 50px;
+  margin-left: 10px;
 }
 
 @media screen and (min-width: 500px) {

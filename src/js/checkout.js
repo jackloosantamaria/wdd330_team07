@@ -23,3 +23,4 @@ document.querySelector("#checkoutSubmit").addEventListener("click", (e) => {
 //   // e.target would contain our form in this case
 //    myCheckout.checkout();
 // });
+

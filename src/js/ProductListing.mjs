@@ -40,3 +40,4 @@ export default class ProductList {
   //   this.listElement.insertAdjacentHTML("afterbegin", htmlStrings.join(""));
   // }
 }
+
